@@ -1,0 +1,68 @@
+const DATA = [
+    {
+      id: 1,
+      photo:require("../image/now1.jpeg"),
+      title: "[HCMC ,HN. DN] Bữa trưa GIẢM 50% đơn từ 0đ",
+      content1: "Mã TIENBOI giảm tối đa 20k",
+      content2:"Loạt quán ngon lâu năm đợi bạn Now nhé!",
+      datetime:"23/04/2021 11:30",
+    },
+    {
+      id: 2,
+      photo:require("../image/now2.png"),
+      title: "[HN] [Nơw Table] Chất lừ từ thương hiệu xịn",
+      content1: "Hơn 1000 nhà hàng đang đợi bạn khám phá",
+      content2: "Ưu đãi ĐẶT BÀN GIẢM TỚI 50%.Đặt bàn ngay nào! ",
+      datetime:"23/04/2021 11:00",
+    },
+    {
+      id: 3,
+      photo:require("../image/now3.jpeg"),
+      title: "[HCMC,HN, DN] Deal hot cuối ngày FREESHIP toàn quốc",
+      content1: "Mã FREESHIPALL GIẢM 15k phí vận chuyển đến 3km, đơn từ 40k",
+      content2: "Số lượng có han, đói bụng đặt Now!",
+      datetime:"22/04/2021 20:30",
+    },
+   
+    {
+      id: 4,
+      photo:require("../image/now4.jpeg"),
+      title: "[HCMC,HN,DN]FREESHIP tiếp sức đồng ăn",
+      content1: "Mã ALLFREE miễn phí vẫn chuyển đến 3km,đơn từ 40k",
+      content2: "Số lượng có han, đói bụng đặt Now!",
+      datetime:"22/04/2021 16:00",
+    }, 
+    {
+      id: 5,
+      photo:require("../image/now5.jpeg"),
+      title: "[HCMC] Starbuck,KOI Thé,Popoeyes giảm 50%",
+      content1: "Giờ tà tưa đến rồi lên đơn nhanh nào bạn ơi",
+      content2: "",
+      datetime:"22/04/2021 14:00",
+    },
+    {
+      id: 6,
+      photo:require("../image/now6.jpeg"),
+      title: "[HCMC,HN,DN] Deal hiếm giảm 20k ăn sáng",
+      content1: "Mã SANDEAL20 giảm 50%, tối đa 20k cho đơn từ 0đ",
+      content2: "Đặt ngay ổ bánh mỳ & ly cafe nào",
+      datetime:"22/04/2021 08:00",
+    },
+    {
+      id: 7,
+      photo:require("../image/now7.jpeg"),
+      title: "[HCMC,HN] Combo tiệc tùng đón lễ chỉ 125k",
+      content1: "Mã DEAL 125K được giảm 40kcho đơn 165k",
+      content2: "Khao cả nha ăn uống linh đình luôn",
+      datetime:"21/04/2021 18:30",
+    },
+    {
+      id: 8,
+      photo:require("../image/now8.jpeg"),
+      title: "[HCMC,HN,DN] FREESHIP bao bạn ăn lễ",
+      content1: "Miễn phí vẫn chuyển đến 3km,đơn từ 40k",
+      content2: "Now mang cả bàn tiệc đến nhà bạn",
+      datetime:"21/04/2021 14:00",
+    },
+];
+module.exports=DATA;
